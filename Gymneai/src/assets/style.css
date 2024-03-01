@@ -1,0 +1,205 @@
+:root {
+  /* --primary: rgb(30, 30, 30); */
+  --primary: rgb(34, 34, 34);
+  --secondary: rgb(185, 28, 28);
+  --third: white;
+
+}
+
+*{
+box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    scroll-behavior: smooth;
+ }
+  
+  @-ms-viewport {
+    width: device-width; }
+
+  body {
+    margin: 0;
+    font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    background-color: var(--primary); /* Remove from here */
+
+ }
+
+ body::-webkit-scrollbar {
+  display: none;
+}
+ 
+  .main-section-container {
+      margin: 0;
+      height: 100vh;
+      width: 100vw;
+    }
+
+    .main-section-container-image{
+      height: 100vh;
+      background-image: url('../assets/images/sven-mieke-MsCgmHuirDo-unsplash122.png');
+    }
+
+    .main-laptop-image{
+      height: 60rem;
+      width: 56rem;
+      margin: 0;
+      background-image: url('../assets/images/eqwe.png');
+      background-size: 55rem;
+      background-repeat: no-repeat;
+    }
+
+    .main-mobile-image1{
+      height: 40rem;
+      width: 22rem;
+      margin: 0;
+      background-image: url('../assets/images/9911.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+
+    .main-mobile-image2{
+      height: 39rem;
+      width: 18rem;
+      margin: 0;
+      background-image: url('../assets/images/9922.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+
+    .apple-image{
+      height: 4.5rem;
+      width: 4.5rem;
+      margin: 0;
+      background-image: url('../assets/images/apple.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+
+    }
+
+    .android-image{
+      height: 3.8rem;
+      width: 3.2rem;
+      margin: 0;
+      background-image: url('../assets/images/android.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+
+    }
+
+    .child1-bg{
+      background-image: url('../assets/images/4444-c1.jpg');
+      background-repeat: no-repeat;
+      opacity: 90%;
+      height: 100vh;
+      background-size: cover;;
+    }
+/* 
+    .img-info{
+      background-image: url('../assets/images/2222.jpg');
+      background-size: 55rem;
+      background-repeat: no-repeat;
+      opacity: 80%;
+
+    } */
+
+    .child2-bg{
+
+      background-image: url('../assets/images/4444-c2.jpg');
+      background-repeat: no-repeat;
+      opacity: 90%;
+      height: 100vh;
+      background-size: cover;;
+      
+    }
+
+      /* .img-info-2{
+      background-image: url('../assets/images/sushil-ghimire-5UbIqV58CW8-unsplash22.jpg');
+      background-size: 55rem;
+      background-repeat: no-repeat;
+      opacity: 80%;
+
+    }
+    */
+
+    .child3-bg{
+
+      background-image: url('../assets/images/1212.jpg');
+      background-repeat: no-repeat;
+      opacity: 90%;
+      height: 100vh;
+      background-size: cover;;
+      
+    }
+
+  
+    .main-section-text {
+      color: #fff; /* Change text color to white */
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Use a modern sans-serif font */
+      font-size: 3em; /* Increase font size */
+      margin-bottom: 8px; /* Increase margin bottom */
+      max-width: 600px; /* Set a maximum width for better readability */
+      white-space: nowrap; /* Prevent the text from breaking into two lines */
+    }
+   
+    .tabscolor{
+      background-color:var(--primary)!important;
+      height: 7.4vh;
+      width: 100%;
+    }
+ 
+
+    .myfooter{
+      position: relative;
+      width: 100%;
+      left: 0;
+      bottom: 0;
+    }
+
+    .myfooter-bg{
+      background-image: url('../assets/images/1212.jpg');
+      background-repeat: no-repeat;
+      opacity: 90%;
+      background-size: cover;;
+    }
+
+    .parent {
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+      height: 100vh; /* Adjust the height as needed */
+      scroll-snap-type: y mandatory;
+    }
+    
+    .child {
+      scroll-snap-align: start;
+      width: 100%;
+    }
+    
+    /* Hide the scrollbar */
+.parent::-webkit-scrollbar {
+  display: none;
+}
+
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 1000ms;
+}
+
+.fade-exit {
+  opacity: 1;
+}
+
+.fade-exit-active {
+  opacity: 0;
+  transition: opacity 1000ms;
+}

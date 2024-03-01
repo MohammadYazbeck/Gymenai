@@ -1,0 +1,389 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Incline Dumbbell Bench Press",
+      "image": "/src/assets/images/exercises/chest/1.webp",
+      "main_bodypart": "chest",
+      "description": "The incline dumbbell bench press is a variation of the incline bench press and an exercise used to build the muscles of the chest.",
+      "ai_supported": true
+    },
+    {
+      "id": 2,
+      "name": "Incline Dumbbell Flys",
+      "image": "/src/assets/images/exercises/chest/2.webp",
+      "main_bodypart": "chest",
+      "description": "The incline dumbbell fly is a variation of the dumbbell fly and an exercise used to isolate the muscles of the chest.",
+      "ai_supported": true
+    },
+    {
+      "id": 3,
+      "name": "Dumbbell Bench Press",
+      "image": "/src/assets/images/exercises/chest/3.webp",
+      "main_bodypart": "chest",
+      "description": "The dumbbell bench press is a variation of the barbell bench press and an exercise used to build the muscles of the chest.",
+      "ai_supported": false
+    },
+    {
+      "id": 4,
+      "name": "Pec Dec",
+      "image": "/src/assets/images/exercises/chest/4.webp",
+      "main_bodypart": "chest",
+      "description": "The Pec Dec is a machine exercise used to target and build the muscles of the chest.",
+      "ai_supported": false
+    },
+    {
+      "id": 5,
+      "name": "Decline Dumbbell Bench Press",
+      "image": "/src/assets/images/exercises/chest/5.webp",
+      "main_bodypart": "chest",
+      "description": "The decline dumbbell bench press is a variation that requires shoulder stability, recruiting more muscle fibers to stabilize the body than its barbell counterpart.",
+      "ai_supported": false
+    },
+    {
+      "id": 6,
+      "name": "Standing High to Low Cable Fly",
+      "image": "/src/assets/images/exercises/chest/6.webp",
+      "main_bodypart": "chest",
+      "description": "The standing high to low cable fly can be tough to overload as it requires a great deal of core stability, so it is probably best used as an accessory movement for those looking to increase their chest muscle mass.",
+      "ai_supported": false
+    },
+    {
+      "id": 7,
+      "name": "Push Up",
+      "image": "/src/assets/images/exercises/chest/7.webp",
+      "main_bodypart": "chest",
+      "description": "The push up is an old school movement that nearly everyone has performed at one point or another in their lifetime. The exercise is extremely beneficial in not only building the chest but also promoting healthy shoulder stability.",
+      "ai_supported": false
+    },
+    {
+      "id": 8,
+      "name": "Hammer Strength Machine Incline Bench Press",
+      "image": "/src/assets/images/exercises/chest/8.webp",
+      "main_bodypart": "chest",
+      "description": "The machine incline bench press is a variation of the barbell incline bench press used to strengthen the muscles of the chest. It will also indirectly target the muscles of the shoulders and triceps.",
+      "ai_supported": false
+    },
+    {
+      "id": 9,
+      "name": "Bench Press",
+      "image": "/src/assets/images/exercises/chest/9.webp",
+      "main_bodypart": "chest",
+      "description": "The bench press is a compound exercise used to build the muscles of the chest, shoulders, and triceps.",
+      "ai_supported": false
+    },
+    {
+      "id": 10,
+      "name": "Dumbbell Lateral Raise",
+      "image": "/src/assets/images/exercises/shoulders/1.webp",
+      "main_bodypart": "shoulders",
+      "description": "The dumbbell lateral raise is a shoulder exercise used to strengthen the muscles of the shoulder. It's a good exercise for building width in your upper body which gives you the \"V\" shape.",
+      "ai_supported": true
+    },
+    {
+      "id": 11,
+      "name": "Dumbbell Shoulder Press",
+      "image": "/src/assets/images/exercises/shoulders/2.webp",
+      "main_bodypart": "shoulders",
+      "description": "The seated dumbbell press is a variation of the standing dumbbell press and an exercise used to strengthen the muscles of the shoulders. The overhead press is a foundational movement for establishing baseline strength and building a completely balanced physique.",
+      "ai_supported": true
+    },
+    {
+      "id": 12,
+      "name": "Arnold Press",
+      "image": "/src/assets/images/exercises/shoulders/3.webp",
+      "main_bodypart": "shoulders",
+      "description": "The Arnold press, named after Arnold Schwarzenegger himself, is an exercise used to target every single head of the deltoid.",
+      "ai_supported": false
+    },
+    {
+      "id": 13,
+      "name": "Single Arm Cable Lateral Raise (Crossbody)",
+      "image": "/src/assets/images/exercises/shoulders/4.webp",
+      "main_bodypart": "shoulders",
+      "description": "The single arm cable lateral raise is a variation of the lateral raise and an exercise used to build the muscles of the shoulders.",
+      "ai_supported": false
+    },
+    {
+      "id": 14,
+      "name": "Machine Shoulder Press",
+      "image": "/src/assets/images/exercises/shoulders/5.webp",
+      "main_bodypart": "shoulders",
+      "description": "The machine shoulder press is best added towards the end of your shoulder workout if you are training for hypertrophy, after you’ve used other more compound variations to work your push muscles.",
+      "ai_supported": false
+    },
+    {
+      "id": 15,
+      "name": "Machine Reverse Fly",
+      "image": "/src/assets/images/exercises/shoulders/6.webp",
+      "main_bodypart": "shoulders",
+      "description": "Performing the machine reverse fly exercise can be a useful way to isolate the rear delt muscles without the need to stabilize the core as seen in other variations. The rear delts are often a lagging and underactive muscle group, so training them within your workout program is a must.",
+      "ai_supported": false
+    },
+    {
+      "id": 16,
+      "name": "Standing Dumbbell Front Raise",
+      "image": "/src/assets/images/exercises/shoulders/7.webp",
+      "main_bodypart": "shoulders",
+      "description": "The dumbbell front raise is a shoulder exercise used to target the front deltoids.",
+      "ai_supported": false
+    },
+    {
+      "id": 17,
+      "name": "Seated Bent Over Dumbbell Reverse Fly",
+      "image": "/src/assets/images/exercises/shoulders/8.webp",
+      "main_bodypart": "shoulders",
+      "description": "The seated bent-over dumbbell reverse fly is a dumbbell reverse fly variation and an exercise used to strengthen the rear deltoids.",
+      "ai_supported": false
+    },
+    {
+      "id": 18,
+      "name": "Cable Face Pull",
+      "image": "/src/assets/images/exercises/shoulders/9.webp",
+      "main_bodypart": "shoulders",
+      "description": "The cable face pull is a great shoulder exercise that can be used to target the rear deltoids. Not many exercises can effectively target the rear delts like the cable face pull can.",
+      "ai_supported": false
+    },
+    {
+      "id": 19,
+      "name": "Standing Dumbbell Curl (Biceps)",
+      "image": "/src/assets/images/exercises/arms/biceps/1.jpg",
+      "main_bodypart": "arms",
+      "description": "Standing Dumbbell curl variations are primarily popular among lifters looking to improve their aesthetics as direct arm work will have limited carry over into maximum strength..",
+      "ai_supported": false
+    },
+{
+      "id": 20,
+      "name": "Standing Hammer Curl (Biceps)",
+      "image": "/src/assets/images/exercises/arms/biceps/2.jpg",
+      "main_bodypart": "arms",
+      "description": "The Standing Hammer Curl elongates the negative portion of the dumbbell curl, creating a deeper stretch on the biceps muscle tissue.",
+      "ai_supported": false
+  },
+{
+      "id": 21,
+      "name": "Incline Dumbbell Curl (Biceps)",
+      "image": "/src/assets/images/exercises/arms/biceps/3.jpg",
+      "main_bodypart": "arms",
+      "description": "The incline dumbbell curl is a variation of the dumbbell curl and an exercise used to build bigger biceps.",
+      "ai_supported": false
+    },
+    {
+      "id": 22,
+      "name": "Cable Curl (Biceps)",
+      "image": "/src/assets/images/exercises/arms/biceps/4.jpg",
+      "main_bodypart": "arms",
+      "description": "Stand with your knees slightly bent, and feet planted firmly on the floor. Brace your abdominal muscles, straighten your back, and keep your head steady while looking forward",
+      "ai_supported": false
+    },
+    {
+      "id": 23,
+      "name": "Concentration Curl (Biceps)",
+      "image": "/src/assets/images/exercises/arms/biceps/5.jpg",
+      "main_bodypart": "arms",
+      "description": "The concentration curl is a bodybuilding favorite for building biceps. Some promote the concentration curl claiming it to be an exercise guaranteed to produce a bicep pump and build the mind muscle connection. ",
+      "ai_supported": false
+    },
+    {
+      "id": 24,
+      "name": "Machine Bicep Curl (Biceps)",
+      "image": "/src/assets/images/exercises/arms/biceps/6.jpg",
+      "main_bodypart": "arms",
+      "description": "Your arms should be pressed against the pads when you sit on the machine. Now grab the handles with your hands facing upwards. Slowly curl the forearms until you squeeze the biceps at the top of the movement. Return your arms to the starting point.",
+      "ai_supported": false
+    },
+    {
+      "id": 25,
+      "name": "Straight Bar Tricep",
+      "image": "/src/assets/images/exercises/arms/triceps/1.jpg",
+      "main_bodypart": "arms",
+      "description": "The straight bar tricep extension is a variation of the cable tricep extension and an exercise used to build the muscles of the triceps.",
+      "ai_supported": false
+    },
+    {
+      "id": 26,
+      "name": "Rope Tricep Extension",
+      "image": "/src/assets/images/exercises/arms/triceps/2.jpg",
+      "main_bodypart": "arms",
+      "description": "The rope tricep extension is a variation of the cable tricep extension and an exercise used to build the muscles of the triceps",
+      "ai_supported": false
+    },
+    {
+      "id": 27,
+      "name": "Seated Dumbbell Tricep Extension",
+      "image": "/src/assets/images/exercises/arms/triceps/3.jpg",
+      "main_bodypart": "arms",
+      "description": "The seated dumbbell tricep extension is a variation of the dumbbell tricep extension and an exercise used to isolate the muscles of the triceps.",
+      "ai_supported": false
+    },
+    {
+      "id": 28,
+      "name": "Weighted Tricep Dips",
+      "image": "/src/assets/images/exercises/arms/triceps/4.jpg",
+      "main_bodypart": "arms",
+      "description": "The weighted tricep dip is a variation of the tricep dip and an exercise used to build the muscles of the triceps, shoulders, and chest. Adding weight to a dip belt is an excellent way to progress from the bodyweight variation of the tricep dip and will ensure you are continuously getting stronger and building muscle from performing the lift.",
+      "ai_supported": false
+    },
+    {
+      "id": 29,
+      "name": "Dumbbell Tricep Kickback",
+      "image": "/src/assets/images/exercises/arms/triceps/5.jpg",
+      "main_bodypart": "arms",
+      "description": " The triceps are essential for building upper body strength and helping with movement in your shoulders and elbows. Increasing triceps strength brings stability to your shoulders and arms, improves flexibility, and increases range of motion. ",
+      "ai_supported": false
+    },
+    {
+      "id": 30,
+      "name": "Reverse One-Arm Cable Tricep Extension",
+      "image": "/src/assets/images/exercises/arms/triceps/6.jpg",
+      "main_bodypart": "arms",
+      "description": "From a standing position, grasp a handle attached to the high pulley cable with an underhand grip. Keeping your elbow pivoted by your side and your wrist straight, press the weight down in a semicircular arc until your arms are fully extended but not locked out.",
+      "ai_supported": false
+
+    },
+    {
+      "id": 31,
+      "name": "Barbell back Squat",
+      "image": "/src/assets/images/exercises/legs/1.jpg",
+      "main_bodypart": "legs",
+      "description": "The squat is the king of all exercises, working over 256 muscles in one movement! From bodybuilders to powerlifters to competitive athletes, the squat is a staple compound exercise and should be in every.",
+      "ai_supported": false
+    },
+{
+      "id": 32,
+      "name": "Leg Press",
+      "image": "/src/assets/images/exercises/legs/2.jpg",
+      "main_bodypart": "legs",
+      "description": "The leg press is a variation of the squat and an exercise used to target the muscles of the leg. One can utilize the leg press to target both the quads and the hamstring muscle, depending on which portion of the foot they push through.",
+      "ai_supported": false
+  },
+{
+      "id": 33,
+      "name": "Machine Hack Squat",
+      "image": "/src/assets/images/exercises/legs/3.jpg",
+      "main_bodypart": "legs",
+      "description": "The machine hack squat is a variation of the squat and an exercise used to build the muscles of the legs. In particular, the hack squat will target the quads, hamstrings, glutes, and calves.",
+      "ai_supported": false
+    },
+{
+      "id": 34,
+      "name": "Dumbbell Walking Lunge",
+      "image": "/src/assets/images/exercises/legs/4.jpg",
+      "main_bodypart": "legs",
+      "description": "The dumbbell walking lunge is a variation of the dumbbell lunge. It is a little more advanced than other lunge variations and should be worked up to.",
+      "ai_supported": false
+    },
+{
+      "id": 35,
+      "name": "Single Leg Extension",
+      "image": "/src/assets/images/exercises/legs/5.jpg",
+      "main_bodypart": "legs",
+      "description": "The single leg seated leg extension is a variation of the leg extension and an exercise used to target the muscles of the quads.",
+      "ai_supported": false
+    },
+{
+      "id": 36,
+      "name": "Dumbbell Stiff Leg Deadlift",
+      "image": "/src/assets/images/exercises/legs/6.jpg",
+      "main_bodypart": "legs",
+      "description": "The Dumbbell Stiff Leg Deadlift is an extremely popular exercise and a true test of total body strength. It is popular across numerous weight lifting circle including bodybuilders, powerlifts, and Crossfit athletes.",
+      "ai_supported": false
+    },
+{
+      "id": 37,
+      "name": "Seated Leg Curl",
+      "image": "/src/assets/images/exercises/legs/7.jpg",
+      "main_bodypart": "legs",
+      "description": "The seated leg curl is a variation of the leg curl and an exercise used to isolate the hamstrings.",
+      "ai_supported": false
+    },
+{
+      "id": 38,
+      "name": "Nordic Hamstring Curl (Bodyweight)",
+      "image": "/src/assets/images/exercises/legs/8.jpg",
+      "main_bodypart": "legs",
+      "description": "The Nordic hamstring curl is a bodyweight variation of the leg curl and an exercise used to strengthen the muscles of the hamstrings.",
+      "ai_supported": false
+    },
+{
+      "id": 39,
+      "name": "Dumbbell Goblet Squat",
+      "image": "/src/assets/images/exercises/legs/9.jpg",
+      "main_bodypart": "legs",
+      "description": "The dumbbell goblet squat is a variation of the squat and an exercise used to build the muscles of the legs. In particular, the dumbbell goblet squat will place a lot of emphasis on the quads.",
+      "ai_supported": false
+    },
+    {
+      "id": 40,
+      "name": "Lat Pull Down-LATS",
+      "image": "/src/assets/images/exercises/back/1.jpg",
+      "main_bodypart": "back",
+      "description": "The lat pull down is an exercise used to build the muscles of the back. While the exercise will primarily target the lats, you will also notice a fair amount of bicep and middle back activation",
+      "ai_supported": false
+    },
+    {
+      "id": 41,
+      "name": "Pull Up-LATS",
+      "image": "/src/assets/images/exercises/back/2.jpg",
+      "main_bodypart": "back",
+      "description": "The pull up is a classic exercise and one used to target the upper back muscles such as the latissimus dorsi.",
+      "ai_supported": false
+    },
+    {
+      "id": 42,
+      "name": "Shotgun Row-LATS-LATS",
+      "image": "/src/assets/images/exercises/back/3.jpg",
+      "main_bodypart": "back",
+      "description": "The shotgun row allows one to work each side of their back unilaterally to assist in building a balanced physique and strength.",
+      "ai_supported": false
+    },
+    {
+      "id": 43,
+      "name": "Underhand Close Grip Lateral Pulldown-LATS",
+      "image": "/src/assets/images/exercises/back/4.webp",
+      "main_bodypart": "back",
+      "description": "Build the muscles of the back. While the exercise will primarily target the lats, you will also notice a fair amount of bicep and middle back activation",
+      "ai_supported": false
+    },
+    {
+      "id": 44,
+      "name": "Bent Over Row-Upper back",
+      "image": "/src/assets/images/exercises/back/5.webp",
+      "main_bodypart": "back",
+      "description": "The bent over row is a back day staple exercise and is considered one of the best muscle building back building exercises you can do.",
+      "ai_supported": false
+    },
+    {
+      "id": 45,
+      "name": "Seated Cable Row-Upper back",
+      "image": "/src/assets/images/exercises/back/6.jpg",
+      "main_bodypart": "back",
+      "description": "The bent over row is typically used to build and strengthen the muscles of the upper back (latissimus dorsi, rhomboids, and trapezius). However, it requires assistance from muscles of the low back, core, and arms to perform a bent over row correctly.",
+      "ai_supported": false
+    },
+    {
+      "id": 46,
+      "name": "T-Bar Row-Upper back",
+      "image": "/src/assets/images/exercises/back/7.jpg",
+      "main_bodypart": "back",
+      "description": "The T-Bar row, also known as the close grip barbell row, is an excellent exercise to use if you are trying to target your upper back.",
+      "ai_supported": false
+    },
+    {
+      "id": 47,
+      "name": "Deadlift",
+      "image": "/src/assets/images/exercises/back/8.jpg",
+      "main_bodypart": "back",
+      "description": "The deadlift exercise is a relatively simple exercise to perform, a weight is lifted from a resting position on the floor to an upright position.",
+      "ai_supported": false
+    },
+    {
+      "id": 48,
+      "name": "Tripod Dumbbell Row-lats",
+      "image": "/src/assets/images/exercises/back/9.jpg",
+      "main_bodypart": "back",
+      "description": "The tripod dumbbell row is a variation of the dumbbell bent over row and an exercise one would typically use when trying to target the muscles of the lats.",
+      "ai_supported": false
+    }
+  ]
+}

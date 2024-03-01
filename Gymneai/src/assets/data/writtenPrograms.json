@@ -1,0 +1,68 @@
+{
+    "writtenPrograms": [
+      {
+        "id": 1,
+        "name": "Beginner",
+        "exercises": [
+          {"exerciseId": 7, "sets": 3, "reps": 10},
+          {"exerciseId": 4, "sets": 3, "reps": 10},
+          {"exerciseId": 14, "sets": 3, "reps": 10},
+          {"exerciseId": 10, "sets": 3, "reps": 10},
+          {"exerciseId": 19, "sets": 3, "reps": 10},
+          {"exerciseId": 20, "sets": 3, "reps": 10},
+          {"exerciseId": 25, "sets": 3, "reps": 10},
+          {"exerciseId": 26, "sets": 3, "reps": 10},
+          {"exerciseId": 40, "sets": 3, "reps": 10},
+          {"exerciseId": 41, "sets": 3, "reps": 10},
+          {"exerciseId": 34, "sets": 3, "reps": 10},
+          {"exerciseId": 37, "sets": 3, "reps": 10}
+
+
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Intermidiate",
+        "exercises": [
+          {"exerciseId": 9, "sets": 3, "reps": 10},
+          {"exerciseId": 1, "sets": 3, "reps": 12},
+          {"exerciseId": 21, "sets": 3, "reps": 12},
+          {"exerciseId": 24, "sets": 3, "reps": 12},
+          {"exerciseId": 27, "sets": 3, "reps": 12},
+          {"exerciseId": 28, "sets": 3, "reps": 12},
+          {"exerciseId": 10, "sets": 3, "reps": 12},
+          {"exerciseId": 11, "sets": 3, "reps": 12},
+          {"exerciseId": 18, "sets": 3, "reps": 12},
+          {"exerciseId": 44, "sets": 3, "reps": 12},
+          {"exerciseId": 45, "sets": 3, "reps": 12},
+          {"exerciseId": 32, "sets": 3, "reps": 12},
+          {"exerciseId": 33, "sets": 3, "reps": 12}
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Advanced",
+        "exercises": [
+          {"exerciseId": 1, "sets": 3, "reps": 10},
+          {"exerciseId": 2, "sets": 3, "reps": 12},
+          {"exerciseId": 3, "sets": 3, "reps": 12},
+          {"exerciseId": 12, "sets": 3, "reps": 12},
+          {"exerciseId": 13, "sets": 3, "reps": 12},
+          {"exerciseId": 15, "sets": 3, "reps": 12},
+          {"exerciseId": 22, "sets": 3, "reps": 12},
+          {"exerciseId": 23, "sets": 3, "reps": 12},
+          {"exerciseId": 24, "sets": 3, "reps": 12},
+          {"exerciseId": 29, "sets": 3, "reps": 12},
+          {"exerciseId": 30, "sets": 3, "reps": 12},
+          {"exerciseId": 33, "sets": 3, "reps": 12},
+          {"exerciseId": 35, "sets": 3, "reps": 12},
+          {"exerciseId": 40, "sets": 3, "reps": 12},
+          {"exerciseId": 47, "sets": 3, "reps": 12},
+          {"exerciseId": 48, "sets": 3, "reps": 12}
+
+
+        ]
+      }
+    ]
+  }
+  
